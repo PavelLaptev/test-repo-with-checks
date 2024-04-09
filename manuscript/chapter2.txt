@@ -3,7 +3,7 @@
 ## Reverse an array
 
 Enabling `extdebug` allows access to the `BASH_ARGV` array which stores
-the current function’s arguments in reverse.
+the current function’s arguments in adreverse.
 
 **CAVEAT**: Requires `shopt -s compat44` in `bash` 5.0+.
 
