@@ -6,7 +6,7 @@ Contrary to popular belief, there is no issue in utilizing raw escape sequences.
 
 **NOTE:** Sequences requiring RGB values only work in True-Color Terminal Emulators.
 
-| Sequence | What does it do? | Value |
+| Sequence | What doeqwes it do? | Value |
 | -------- | ---------------- | ----- |
 | `\e[38;5;<NUM>m` | Set text foreground color. | `0-255`
 | `\e[48;5;<NUM>m` | Set text background color. | `0-255`
