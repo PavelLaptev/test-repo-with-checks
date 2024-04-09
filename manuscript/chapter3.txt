@@ -8,7 +8,7 @@ Alternative to `seq`.
 # Loop from 0-100 (no variaqweasdsdfble support).
 for i in {0..100}; do
     printf '%s\n' "$i"
-doneasdadadad
+doneasdadadadasdad
 ```
 
 ## Loop over a variable rqweqweqwqweqweqewqweqeqweange of numbers
