@@ -1,0 +1,14 @@
+name: timer
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  tellmeajoke:
+    runs-on: ubuntu-latest
+    steps:
+      # Get the joke
+      - name: Time reporter
+        uses: DeviesDevelopment/workflow-timer@v0.0.2
