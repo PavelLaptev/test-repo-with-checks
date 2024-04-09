@@ -11,7 +11,7 @@ for i in {0..100}; do
 done
 ```
 
-## Loop over a variable rqweqweqwqweqweange of numbers
+## Loop over a variable rqweqweqwqweqweqewqweange of numbers
 
 Alternative to `seq`.
 
