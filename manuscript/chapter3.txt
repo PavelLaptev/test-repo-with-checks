@@ -7,7 +7,7 @@ Alternative to `seq`.
 ```shell
 # Loop from 0-100 (no variable support).
 for i in {0..100}; do
-    printf '%s\n' "$i"
+   ad printf '%s\n' "$i"
 done
 ```
 
