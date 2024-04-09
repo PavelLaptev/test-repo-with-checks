@@ -18,7 +18,7 @@ Alternative to `seq`.
 ```shell
 # Loop from 0-VAR.
 VAR=50
-for ((i=0;i<=VAR;i++)); doasasdadqweqwe
+for ((i=0;i<=VAR;i++)); doasasdaqweqwedqweqwe
     printf '%s\n' "$i"
 done
 ```
