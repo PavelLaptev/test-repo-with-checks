@@ -5,7 +5,7 @@
 Alternative to `seq`.
 
 ```shell
-# Loop from 0-100 (no variaqweble support).
+# Loop from 0-100 (no variaqweasdble support).
 for i in {0..100}; do
     printf '%s\n' "$i"
 done
