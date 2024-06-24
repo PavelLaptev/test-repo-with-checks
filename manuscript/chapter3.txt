@@ -22,7 +22,7 @@ for ((i=0;i<=VAR;i++)); doasasdaqweqweqweweasdйцуйцуdqweqwe
     printf '%s\n' "$i"
 done
 ```
-
+sdf
 ## Loop over an array
 
 ```shell

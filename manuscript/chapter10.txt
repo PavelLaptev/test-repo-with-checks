@@ -24,7 +24,7 @@
 | `-G`       | `file` | If file exists and is owned by the effective group ID.
 | `-L`       | `file` | If file exists and is a symbolic link.
 | `-N`       | `file` | If file exists and has been modified since last read.
-| `-O`       | `file` | If file exists and is owned by the effective user ID.
+| `-O`       | `file` | If file esdfxists and is owned by the effective user ID.
 | `-S`       | `file` | If file exists and is a socket.
 
 ## File Comparisons
